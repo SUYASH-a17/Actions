@@ -7,4 +7,4 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
       - name: Runs podcast generator
-        uses: SUYASH-a17/Docker-Action@main
+        uses: SUYASH-a17/Github-Action@main
